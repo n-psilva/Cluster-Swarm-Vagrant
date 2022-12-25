@@ -6,12 +6,12 @@ Após a criação de uma pasta para receber os arquivos acima, digitar no termin
 
 obs.: deverá estar na pasta onde se encontra o arquivo Vagrantfile
 
-#######-> \lab-vagrand> vagrant up
+\lab-vagrand> vagrant up
 
-#######-acessar nó master
-#######-> vagrant ssh master
+acessar nó master
+vagrant ssh master
 
-#######-confere os nós
-#######-> docker node ls
-#######obs.: o comando deve ser realizado com usuario root
+confere os nós
+docker node ls
+obs.: o comando deve ser realizado com usuario root
 
