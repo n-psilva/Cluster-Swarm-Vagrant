@@ -6,7 +6,7 @@ Após a criação de uma pasta para receber os arquivos acima, digitar no termin
 
 obs.: deverá estar na pasta onde se encontra o arquivo Vagrantfile
 
-\lab-vagrand> vagrant up
+>\lab-vagrand> vagrant up
 
 -acessar nó master
 
