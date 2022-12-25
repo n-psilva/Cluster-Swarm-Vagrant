@@ -1,6 +1,6 @@
 # Cluster-Swarm-Vagrant
 
-## O projeto cria um cluster swarm com três nós, sendo um deles o principal.
+## O projeto cria um cluster swarm com dois nós, sendo um deles o principal.
 
 Após a criação de uma pasta para receber os arquivos acima, digitar no terminal os seguintes comandos para subir o cluster e conferir os nós:
 
