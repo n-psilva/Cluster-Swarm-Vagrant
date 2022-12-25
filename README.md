@@ -9,9 +9,12 @@ obs.: deverá estar na pasta onde se encontra o arquivo Vagrantfile
 \lab-vagrand> vagrant up
 
 acessar nó master
+
 vagrant ssh master
 
 confere os nós
+
 docker node ls
+
 obs.: o comando deve ser realizado com usuario root
 
